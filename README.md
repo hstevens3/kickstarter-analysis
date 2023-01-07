@@ -12,11 +12,13 @@ Analysis of Kickstarter campaigns by launch dates and funding goals.
 
 ### Analysis of Outcomes Based on Launch Date
 
+
 Starting with the Kickstarter Excel file, I created a pivot table to summarize outcomes by month of launch date. My first attempt, I used Year as the row field but after looking at the example provided, I realized that I needed to use the Date Created Conversion Date instead. Once the pivot table was correct, the next step of creating the line chart was pretty straightfoward. By default, the button text appeared on my chart, so it took me a few minutes to figure out how to remove those. I selected a preset style that had the line markers since those were shown in the example. The result is the chart below.
 ---
 ![Outcomes Based on Launch Date](/assets/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+
 
 For the second analysis, I created a new sheet to add formulas for counting the Kickstarter data based on criteria. I used the CountIf and Sum functions. I remembered from class that the $ is used as a lock character, and that made copying the formulas across columns easier. I didn't know that before bootcamp started, so I learned something new! Since the Number Cancelled was all zeros, that surprised me so I took a minute to filter the data to double check that that was true. And I checked against the images in the material to make sure I didn't miss something. The result is the chart below.
 ---
