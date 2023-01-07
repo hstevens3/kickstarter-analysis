@@ -16,7 +16,7 @@ Starting with the Kickstarter Excel file, I created a pivot table to summarize o
 
 ---
 
-![Outcomes Based on Launch Date](/assets/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -24,7 +24,7 @@ For the second analysis, I created a new sheet to add formulas for counting the 
 
 ---
 
-![Outcomes Based on Goals](/assets/resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
 
 
 ## Results
